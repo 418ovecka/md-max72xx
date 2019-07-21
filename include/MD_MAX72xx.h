@@ -239,7 +239,7 @@ enough current for the number of connected modules.
  FC16 modules are similar in format to the ICStation modules but are wired differently.
  Modules are identified by a FC-16 designation on the PCB
   */
-#define	USE_FC16_HW	0
+#define	USE_FC16_HW	1
 
 /**
  \def USE_OTHER_HW
